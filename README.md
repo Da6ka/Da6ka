@@ -7,7 +7,7 @@ sourcing, candidate research, and recruiting automation.
 
 - **[tech-sourcing-skill](https://github.com/Da6ka/linkedin-sourcing-skill)** —
   a Claude Code skill that turns a job description into a candidate persona, finds
-  matching LinkedIn profiles, scores them, and drafts personalized outreach in one pass.
+  matching LinkedIn & other social media profiles, scores them, and drafts personalized outreach in one pass.
 - **[AI-in-TA Telegram bot](https://github.com/Da6ka/ai-in-ta-telegram-bot)** — a daily briefing of AI-in-recruitment news, generated
   and delivered automatically.
 - **Huntflow ATS tooling** — CLI helpers for querying vacancies, candidates, and
