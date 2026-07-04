@@ -13,4 +13,3 @@ Talent Acquisition specialist focused on bringing AI into the hiring workflow â€
 - [da6ka.iv@gmail.com](mailto:da6ka.iv@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dariaivanova/)
 - [Telegram](https://t.me/Da6ka)
-- [rebrand.ly/TalentAcquisitor](https://rebrand.ly/TalentAcquisitor)
