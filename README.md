@@ -10,6 +10,6 @@ Talent Acquisition specialist focused on bringing AI into the hiring workflow â€
 - **Huntflow ATS tooling** â€” CLI helpers for querying vacancies, candidates, and pipeline stages, and adding applicants to Huntflow ATS straight from a CV
 
 ### Get in touch
-- [da6ka.iv@gmail.com](mailto:da6ka.iv@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dariaivanova/)
 - [Telegram](https://t.me/Da6ka)
+- [da6ka.iv@gmail.com](mailto:da6ka.iv@gmail.com)
