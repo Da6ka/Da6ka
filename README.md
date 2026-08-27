@@ -9,6 +9,7 @@ Talent Acquisition specialist focused on bringing AI into the hiring workflow �
 - **tech-sourcing-skill** — a Claude Code skill that turns a job description into a candidate persona, finds matching LinkedIn & other social media profiles, scores them, and drafts personalized outreach in one pass
 - **Huntflow ATS tooling** — CLI helpers for querying vacancies, candidates, and pipeline stages, and adding applicants to Huntflow ATS straight from a CV
 - **outreach-memory** — semantic search over past cold outreach, filtered to messages that got replies, so new outreach is written from what worked instead of from scratch
+- **Telegram → VK crosspost** — a webhook relay that mirrors a construction charity's Telegram channel into its VK community chat within a minute of publishing, so volunteers on either platform see the same updates
 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/dariaivanova/)
