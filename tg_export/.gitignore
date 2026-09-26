@@ -1,0 +1,5 @@
+*.session
+*.session-journal
+channel_export.json
+channel_export.md
+venv/
